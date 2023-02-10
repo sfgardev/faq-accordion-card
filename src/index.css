@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --very-dark-blue-clr: 238, 29%, 16%;
+    --soft-red-clr: 14, 88%, 65%;
+    --soft-violet-clr: 273, 75%, 66%;
+    --soft-blue-clr: 240, 73%, 65%;
+    --very-dark-grayish-blue-clr: 237, 12%, 33%;
+    --dark-grayish-blue-clr: 240, 6%, 50%;
+    --light-grayish-blue-clr: 240, 5%, 91%;
+  }
+}
